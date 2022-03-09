@@ -54,6 +54,10 @@
 { "type": "Feature", "properties": { "id": 49, "linea": "Linea 18", "inicio": 1 }, "geometry": { "type": "Point", "coordinates": [ -60.719610117424665, -31.574614109749728 ] } },
 { "type": "Feature", "properties": { "id": 50, "linea": "Linea 18", "inicio": 2 }, "geometry": { "type": "Point", "coordinates": [ -60.726701870076283, -31.644226334849616 ] } },
 { "type": "Feature", "properties": { "id": 51, "linea": "Linea 18", "inicio": 1 }, "geometry": { "type": "Point", "coordinates": [ -60.726684928110991, -31.644227104938949 ] } },
-{ "type": "Feature", "properties": { "id": 52, "linea": "Linea 18", "inicio": 2 }, "geometry": { "type": "Point", "coordinates": [ -60.719602416531316, -31.57456905952386 ] } }
+{ "type": "Feature", "properties": { "id": 52, "linea": "Linea 18", "inicio": 2 }, "geometry": { "type": "Point", "coordinates": [ -60.719602416531316, -31.57456905952386 ] } },
+{ "type": "Feature", "properties": { "id": 53, "linea": "Linea 14", "inicio": 1 }, "geometry": { "type": "Point", "coordinates": [ -60.66551994463731, -31.600084339972845 ] } },
+{ "type": "Feature", "properties": { "id": 54, "linea": "Linea 14", "inicio": 2 }, "geometry": { "type": "Point", "coordinates": [ -60.716152258859857, -31.660204392690463 ] } },
+{ "type": "Feature", "properties": { "id": 55, "linea": "Linea 14", "inicio": 1 }, "geometry": { "type": "Point", "coordinates": [ -60.716195485882956, -31.660263545458918 ] } },
+{ "type": "Feature", "properties": { "id": 56, "linea": "Linea 14", "inicio": 2 }, "geometry": { "type": "Point", "coordinates": [ -60.665609630868559, -31.600289463557637 ] } }
 ]
 }
