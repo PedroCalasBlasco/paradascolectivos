@@ -28,7 +28,9 @@ function getColor(data)  {
            data == 23 ? 'rgba(255,0,0,1)' :
            data == 24 ? 'rgba(0,0,240,0.6)' :
            data == 25 ? 'rgba(255,0,0,1)' :
-           data == 26 ? 'rgba(0,0,240,0.6)' :  '#FEB24C';
+           data == 26 ? 'rgba(0,0,240,0.6)' :
+           data == 27 ? 'rgba(255,0,0,1)' :
+           data == 28 ? 'rgba(0,0,240,0.6)' :  '#FEB24C';
 }
 
 
@@ -58,7 +60,9 @@ function getDash(data)  {
            data == 23 ? '1' :
            data == 24 ? '3' :
            data == 25 ? '1' :
-           data == 26 ? '3' :  '2';
+           data == 26 ? '3' : 
+           data == 27 ? '1' :
+           data == 28 ? '3' :  '2';
 }
 
 
